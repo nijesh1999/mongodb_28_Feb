@@ -6,11 +6,11 @@ use zen;
 
 CREATE TABLE users(userid INTEGER AUTO_INCREMENT PRIMARY KEY,username VARCHAR(100),useremail VARCHAR(100),batchid INTEGER);
 
-INSERT INTO users(username,useremail,batchid) VALUES("surya","surya@gmail.com",26),
-                                                    ("giri","giri@gmail.com",27),
-                                                    ("nijesh","nijesh@gmail.com",27),
-                                                    ("bala","bala@gmail.com",26),
-                                                    ("gowtham","gowtham@gmail.com",26);
+INSERT INTO users(username,useremail,batchid) VALUES("hello","hello@gmail.com",26),
+                                                    ("hai","hai@gmail.com",27),
+                                                    ("love","love@gmail.com",27),
+                                                    ("heart","heart@gmail.com",26),
+                                                    ("rose","rose@gmail.com",26);
 
 
 
